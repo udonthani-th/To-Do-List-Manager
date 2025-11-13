@@ -236,4 +236,6 @@ def main_menu(tasks):
 if __name__ == "__main__":
     # โหลดข้อมูลเมื่อเริ่มต้น
     todo_list = load_tasks()
+
     main_menu(todo_list)
+
