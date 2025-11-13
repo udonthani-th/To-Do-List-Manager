@@ -15,11 +15,9 @@
 * รองรับการเพิ่ม, ดู, แก้ไขสถานะ/คำอธิบาย/วันครบกำหนด, และลบรายการ To-Do
 ---
 ## 2. วิธีการรันโปรแกรม (How to Run)
-
 ### Prerequisites
 * ติดตั้ง Python 3.x
 * ติดตั้ง Git
-
 ### ขั้นตอนการรัน
 1.  **Clone Repository:** ดึงโปรเจกต์จาก GitHub ลงเครื่องของคุณ
     ```bash
@@ -35,6 +33,18 @@
     ```
     *เมื่อโปรแกรมเริ่มต้น จะมีการโหลดข้อมูลจากไฟล์ `tasks.json` (ถ้ามี) และแสดงเมนูหลัก*
 ---
-## 3.  ตัวอย่าง Input/Output (Demo)
+## 3.  ตัวอย่าง Input/Output 
+========== To-Do List Manager ==========
+
+Add Task
+
+View Tasks
+
+Edit/Update Task
+
+Delete Task
+
+Exit and Save ======== Enter your choice (1-5):
 
 เมื่อรันโปรแกรม เมนูหลักจะปรากฏขึ้น:
+
