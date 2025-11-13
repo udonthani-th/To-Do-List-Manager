@@ -4,9 +4,6 @@
    "cell_type": "code",
 <<<<<<< HEAD
    "execution_count": None,
-=======
-   "execution_count": None,
->>>>>>> 14b7a13 (FEAT: Implement Task class with encapsulation, getters, and serialization (to/from dict).)
    "id": "6778f8ff-16af-4b1b-8e4c-e25f2afc83a0",
    "metadata": {},
    "outputs": [
