@@ -2,8 +2,6 @@
  "cells": [
   {
    "cell_type": "code",
-<<<<<<< HEAD
-   "execution_count": None,
    "id": "6778f8ff-16af-4b1b-8e4c-e25f2afc83a0",
    "metadata": {},
    "outputs": [
